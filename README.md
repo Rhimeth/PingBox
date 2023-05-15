@@ -1,6 +1,9 @@
-# PingBox
 PingBox
-A Cross-Platrom social media application which aims to combine features of Twitter, GitHub, and Gmail to create a platform that makes use of 'pings' to allow users to connect, share information and collaborate.
+
+A Cross-Platrom social media application which aims to combine features of Twitter, GitHub, and Gmail. 
+
+The platform aims makes use of 'pings' to allow users to connect, share information and collaborate.
+
 Created with Quasar Framework, VueJS & Firebase.
 
 Setup:
